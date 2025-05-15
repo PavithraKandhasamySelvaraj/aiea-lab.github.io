@@ -1,8 +1,3 @@
-+++
-title = "LLM+Logic"
-authors = ["Pavithra"]
-+++
-
 Learn more about our [active projects](/project/) and if you are interested, see about [joining us](/join/).
 
 Coming soon!
